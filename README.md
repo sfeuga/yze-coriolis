@@ -1,14 +1,14 @@
-![Banner](https://github.com/winks-vtt/yze-coriolis/raw/master/images/coriolis-banner.png)
+![Banner](https://github.com/sfeuga/yze-coriolis/raw/master/images/coriolis-banner.png)
 
 # Coriolis
 
-The **Official** system for playing [Coriolis](https://frialigan.se/en/games/coriolis-2/) on Foundry VTT.
+The **UnOfficial** system for playing [Coriolis](https://frialigan.se/en/games/coriolis-2/) on Foundry VTT.
 
 ## Installation
 
 1. Inside Foundry's Configuration and Setup screen, go to **Game Systems**
 2. Click "Install System"
-3. In the Manifest URL field paste: `https://raw.githubusercontent.com/winks-vtt/yze-coriolis/master/system.json`
+3. In the Manifest URL field paste: `https://raw.githubusercontent.com/sfeuga/yze-coriolis/master/system.json`
 
 ## Official Modules
 
@@ -20,7 +20,7 @@ To save time recreating hundreds of items, journals, NPCs, and maps from the off
 
 ## Features
 
-![Character Sheet](https://github.com/winks-vtt/yze-coriolis/raw/master/images/char_sheet_preview.png)
+![Character Sheet](https://github.com/sfeuga/yze-coriolis/raw/master/images/char_sheet_preview.png)
 
 - Character sheets for PCs
 - Ship sheets for crew ships
@@ -37,25 +37,25 @@ To save time recreating hundreds of items, journals, NPCs, and maps from the off
 
 ### Modifying Rolls
 
-![Modifying Rolls](https://github.com/winks-vtt/yze-coriolis/raw/master/images/ht_modifier_rolls.gif)
+![Modifying Rolls](https://github.com/sfeuga/yze-coriolis/raw/master/images/ht_modifier_rolls.gif)
 
 When selecting an attribute or skill, a pop up will request a modifier to any roll coming from the character sheet.
 
 ### Pushing Rolls
 
-![Pushing Rolls](https://github.com/winks-vtt/yze-coriolis/raw/master/images/ht_push_rolls.gif)
+![Pushing Rolls](https://github.com/sfeuga/yze-coriolis/raw/master/images/ht_push_rolls.gif)
 
 To push a roll, click on the "pray to the Icons" button under the roll in the chat window
 
 ### Using Weapons and Armor
 
-![Using Items](https://github.com/winks-vtt/yze-coriolis/raw/master/images/ht_use_items.gif)
+![Using Items](https://github.com/sfeuga/yze-coriolis/raw/master/images/ht_use_items.gif)
 
 Weapons, Explosives, and Armor can be rolled in the items tab. You can click on the name of the item to unfold further details, or click on the icon of the item to roll. Rollable items will fade to a dice icon.
 
 ### Handling Darkness Points
 
-![Darkness Points Tools](https://github.com/winks-vtt/yze-coriolis/raw/master/images/dp_bar.png)
+![Darkness Points Tools](https://github.com/sfeuga/yze-coriolis/raw/master/images/dp_bar.png)
 
 - The GM can increment or decrement darkness points via the tool bar on the left.
 - Whenever a player pushes a roll, 1 DP is added to the DB pool of the GM.

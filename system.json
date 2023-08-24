@@ -1,8 +1,8 @@
 {
-    "name": "yzecoriolis",
+    "name": "yzecoriolis-alternative",
     "title": "Coriolis",
     "description": "Coriolis System for Foundry VTT.",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
@@ -11,6 +11,9 @@
     "authors": [
         {
             "name": "Winks"
+        },
+        {
+            "name": "sfeuga"
         }
     ],
     "esmodules": [
@@ -68,6 +71,6 @@
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "power",
     "url": "",
-    "manifest": "https://github.com/winks-vtt/yze-coriolis/releases/latest/download/system.json",
+    "manifest": "https://github.com/sfeuga/yze-coriolis/releases/latest/download/system.json",
     "download": "https://github.com/winks-vtt/yze-coriolis/releases/download/v3.4.0/coriolis.zip"
 }
