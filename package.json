@@ -1,5 +1,5 @@
 {
-  "name": "yzecoriolis",
+  "name": "yzecoriolis-ap",
   "version": "1.0.0",
   "description": "CSS compiler for the Year Zero Engine - Coriolis system",
   "scripts": {
